@@ -1,7 +1,6 @@
 # availa-buddy
 
-This script checks a user's availability and scheduled events for a certain number of forecasted days. It uses the 'icalBuddy' command line utility to fetch this information from the user's calendar in the calendar.app on MacOS. availa-buddy checks all calendars and account calendars set up in the calendar app. To view calendars open the calendar app, and from the title bar select Calendar > settings > general > default settings. This will show all 
-calendars for all accounts synced on your mac calendar.
+This script checks a user's availability and scheduled events for a certain number of forecasted days. It uses the 'icalBuddy' command line utility to fetch this information from the user's calendars in the calendar.app on MacOS. availa-buddy checks all local and account synced calendars set up on your mac. To view calendars open the calendar app, and from the title bar select Calendar > settings > general > default settings. 
 
 ## Getting Started
 
