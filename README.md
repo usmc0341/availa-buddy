@@ -51,24 +51,25 @@ What would you like to see?
 ```
 
 This example will show your availability for the next 3 days.
-
->Availability for 06/07/2023:
->    Available: 08:00:00 - 11:45:00
->    Available: 12:00:00 - 12:30:00
->    Available: 13:30:00 - 15:30:00
->    Available: 17:00:00 - 19:30:00
->Availability for 06/08/2023:
->    Available: 08:00:00 - 09:00:00
->    Available: 10:00:00 - 11:00:00
->    Available: 13:00:00 - 15:00:00
->    Available: 15:30:00 - 16:00:00
->    Available: 17:00:00 - 19:30:00
->Availability for 06/09/2023:
->    Available: 09:00:00 - 09:15:00
->    Available: 09:30:00 - 11:30:00
->    Available: 13:00:00 - 15:00:00
->    Available: 15:50:00 - 16:00:00
->    Available: 17:00:00 - 18:30:00
+```markdown
+Availability for 06/07/2023:
+    Available: 08:00:00 - 11:45:00
+    Available: 12:00:00 - 12:30:00
+    Available: 13:30:00 - 15:30:00
+    Available: 17:00:00 - 19:30:00
+Availability for 06/08/2023:
+    Available: 08:00:00 - 09:00:00
+    Available: 10:00:00 - 11:00:00
+    Available: 13:00:00 - 15:00:00
+    Available: 15:30:00 - 16:00:00
+    Available: 17:00:00 - 19:30:00
+Availability for 06/09/2023:
+    Available: 09:00:00 - 09:15:00
+    Available: 09:30:00 - 11:30:00
+    Available: 13:00:00 - 15:00:00
+    Available: 15:50:00 - 16:00:00
+    Available: 17:00:00 - 18:30:00
+```
 
 Example 2:
 
@@ -81,29 +82,30 @@ What would you like to see?
 
 This example will show your scheduled items for the next 3 days.
 
-> Jun 21, 2023:
-> ------------------------
-> • Event 1 >> 12:30 PM - 1:30 PM
-> • Event 2 >> 2:00 PM - 2:30 PM
-> • Event 3 >> 3:30 PM - 4:00 PM
->
-> 
-> Jun 22, 2023:
-> ------------------------
-> • Event 1 >> 9:00 AM - 10:00 AM
-> • Event 2 >> 9:00 AM - 10:30 AM
-> • Event 3 >> 4:00 PM - 4:30 PM
-> • Event 4 >> 4:30 PM - 5:00 PM
-> • Event 5 >> 7:30 PM - 8:00 PM
-> 
-> Jun 23, 2023:
-> ------------------------
-> • Event 1 >> 8:00 AM - 9:00 AM
-> • Event 2 >> 9:15 AM - 9:30 AM
-> • Event 3 >> 11:30 AM - 12:00 PM
-> • Event 4 >> 6:30 PM - 7:30 PM
-> • Event 5 >> 7:30 PM - 8:00 PM
+```markdown
+ Jun 21, 2023:
+ ------------------------
+ • Event 1 >> 12:30 PM - 1:30 PM
+ • Event 2 >> 2:00 PM - 2:30 PM
+ • Event 3 >> 3:30 PM - 4:00 PM
 
+ 
+ Jun 22, 2023:
+ ------------------------
+ • Event 1 >> 9:00 AM - 10:00 AM
+ • Event 2 >> 9:00 AM - 10:30 AM
+ • Event 3 >> 4:00 PM - 4:30 PM
+ • Event 4 >> 4:30 PM - 5:00 PM
+ • Event 5 >> 7:30 PM - 8:00 PM
+ 
+ Jun 23, 2023:
+ ------------------------
+ • Event 1 >> 8:00 AM - 9:00 AM
+ • Event 2 >> 9:15 AM - 9:30 AM
+ • Event 3 >> 11:30 AM - 12:00 PM
+ • Event 4 >> 6:30 PM - 7:30 PM
+ • Event 5 >> 7:30 PM - 8:00 PM
+```
 
 ## Author
 
