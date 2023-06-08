@@ -1,6 +1,6 @@
 # availa-buddy
 
-As a professional, and parent, I find that my time faces ever competing interests. To help with that I created a simple little python project to help keep track of the many calendars I use between by family, and work. It uses the 'icalBuddy' command line utility to fetch event or availability information from the user's calendars in the calendar app and outputs it in a neatly formatted list or either your upcoming events for x days, or weekday availability for x days. Output is grouped by day. Availa-buddy checks all local and account synced calendars set up on your mac.
+As a professional, and parent, I find that my time faces ever competing interests. To help with that I created a simple little python project to help keep track of the many calendars I use between by family, and work. It uses the 'icalBuddy' command line utility to fetch event or availability information from the user's calendars in the calendar app and outputs it in a neatly formatted list. Out can be either your upcoming events for x days, or weekday availability for x days. Output is grouped by day. Availa-buddy checks all local and account synced calendars set up on your mac.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ What things you need to install the software and how to install them:
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development environment running:
+To install availa-buddy:
 
 1. Clone the repo:
 ```bash
